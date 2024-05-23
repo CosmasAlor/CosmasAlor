@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Node.js, Express.js, and MongoDB for backend development, as well as responsive design, RESTful APIs, and UI/UX design principles.
 -->
-# Hi there, # Hi there, I'm Cosmas Alor 👋
+ # Hi there, I'm Cosmas Alor 👋
 
 
 ## About Me

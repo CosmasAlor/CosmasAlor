@@ -15,12 +15,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Node.js, Express.js, and MongoDB for backend development, as well as responsive design, RESTful APIs, and UI/UX design principles.
 -->
-# Hi there, 
-
-<svg width="400" height="100">
-  <text x="10" y="50" font-family="Verdana" font-size="35" fill="black">I'm Cosmas Alor</text>
-  <animate attributeName="opacity" dur="2s" repeatCount="indefinite" values="0;1;0" />
-</svg>
+# Hi there, # Hi there, I'm Cosmas Alor 👋
 
 
 ## About Me

@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 ## About Me
-I'm a passionate Fullstack Developer tobe with a focus on React for frontend development and Node.js, Express.js, and MongoDB for backend development. I'm dedicated to mastering these technologies and building innovative web applications. I'm also enthusiastic about learning new concepts, including responsive design, RESTful APIs, and UI/UX design principles.
+I'm a passionate Fullstack Developer tobe with a focus on  frontend development . I'm dedicated to mastering these technologies and building innovative web applications. I'm also enthusiastic about learning new concepts, including responsive design, RESTful APIs, and UI/UX design principles.
 
 - 🔭 I’m currently working on honing my skills in  frontend development.
 - 💼 Looking for opportunities to contribute to meaningful projects and collaborate with like-minded individuals.

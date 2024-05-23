@@ -39,8 +39,6 @@ I'm a passionate Fullstack Developer tobe with a focus on React for frontend dev
 ![Cosmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=cosmasalor&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmasalor&layout=compact&theme=radical)
 
-## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmasalor&layout=compact&theme=radical)
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/cosmasalor)

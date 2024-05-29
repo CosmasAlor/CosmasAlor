@@ -16,7 +16,12 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Node.js, Express.js, and MongoDB for backend development, as well as responsive design, RESTful APIs, and UI/UX design principles.
 -->
+
+
+
  # Hi there, I'm Cosmas Alor 👋
+
+[![HitCount](https://hits.dwyl.com/CosmasAlor/CosmasAlor.svg?style=flat&show=unique)](http://hits.dwyl.com/CosmasAlor/CosmasAlor)
 
 
 ## About Me

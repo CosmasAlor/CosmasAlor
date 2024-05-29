@@ -2,6 +2,7 @@
 <!--
 **CosmasAlor/CosmasAlor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![HitCount](https://hits.dwyl.com/CosmasAlor/CosmasAlor.svg?style=flat&show=unique)](http://hits.dwyl.com/CosmasAlor/CosmasAlor)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

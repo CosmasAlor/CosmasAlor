@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
  # Hi there, I'm Cosmas Alor 👋
 
-[![HitCount](https://hits.dwyl.com/CosmasAlor/CosmasAlor.svg?style=flat&show=unique)](http://hits.dwyl.com/CosmasAlor/CosmasAlor)
+[![Vistors Counts](https://hits.dwyl.com/CosmasAlor/CosmasAlor.svg?style=flat&show=unique)](http://hits.dwyl.com/CosmasAlor/CosmasAlor)
 
 
 ## About Me

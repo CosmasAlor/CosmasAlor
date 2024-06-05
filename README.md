@@ -41,6 +41,9 @@ I'm a passionate Fullstack Developer tobe with a focus on  frontend development 
 
 [![HTML badge](https://img.shields.io/badge/HTML-5-orange.svg)](https://shields.io/) [![CSS badge](https://img.shields.io/badge/CSS-3-blue.svg)](https://shields.io/) [![VS Code badge](https://img.shields.io/badge/VS_Code-IDE-blue.svg)](https://shields.io/) [![Git badge](https://img.shields.io/badge/Git-version%20control-red.svg)](https://shields.io/) [![GitHub badge](https://img.shields.io/badge/GitHub-repository-black.svg)](https://shields.io/) [![JavaScript badge](https://img.shields.io/badge/JavaScript-ES6-yellow.svg)](https://shields.io/)
 
+[![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)](https://shields.io/) [![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)](https://shields.io/) [![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)](https://shields.io/) [![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](https://shields.io/) [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://shields.io/) [![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](https://shields.io/)
+
+
 
 
 ## Projects

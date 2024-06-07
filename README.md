@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
  # Hi there, I'm Cosmas Alor 👋
 
-[!Vistors Counts](https://hits.dwyl.com/CosmasAlor/CosmasAlor.svg?style=flat&show=unique)
+[Vistors Counts](https://hits.dwyl.com/CosmasAlor/CosmasAlor.svg?style=flat&show=unique)
 
 ## About Me
 I'm a passionate Fullstack Developer tobe with a focus on  frontend development . I'm dedicated to mastering these technologies and building innovative web applications. I'm also enthusiastic about learning new concepts, including responsive design, RESTful APIs, and UI/UX design principles.

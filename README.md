@@ -1,6 +1,5 @@
 # Hi there, I'm Cosmas Alor 👋
 
-## About Me
 I'm a passionate Fullstack Developer tobe with a focus on frontend development. I'm dedicated to mastering these technologies and building innovative web applications. I'm also enthusiastic about learning new concepts, including responsive design, RESTful APIs, and UI/UX design principles.
 
 - 🔭 I’m currently working on honing my skills in frontend development.

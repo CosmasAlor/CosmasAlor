@@ -1,7 +1,5 @@
 # Hi there, I'm Cosmas Alor 👋
 
-[![Vister_Vounts](https://hits.dwyl.com/CosmasAlor/CosmasAlor.svg?style=flat&show=unique)](http://hits.dwyl.com/CosmasAlor/CosmasAlor)
-
 ## About Me
 I'm a passionate Fullstack Developer tobe with a focus on frontend development. I'm dedicated to mastering these technologies and building innovative web applications. I'm also enthusiastic about learning new concepts, including responsive design, RESTful APIs, and UI/UX design principles.
 
